@@ -205,13 +205,13 @@ body {
 }
 
 .wish-hbd {
-  font-size: 3em;
+  font-size: 2.3rem;
   margin: 0;
   text-transform: uppercase;
 }
 
 .wish h5 {
-  font-size: 0.5rem;
+  font-size: 1.25rem;
   font-weight: lighter;
   margin: 10px 0 0;
 }
@@ -279,11 +279,11 @@ body {
   }
 
   .wish-hbd {
-    font-size: 2.2em;
+    font-size: 2.2rem;
   }
 
   .wish h5 {
-    font-size: 0.5rem;
+    font-size: 1.25rem;
   }
 
   .nine p {
