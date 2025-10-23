@@ -33,7 +33,7 @@ body {
 }
 
 .two {
-  font-size: 3.2rem;
+  font-size: 2.2rem;
 }
 
 .three {
@@ -82,7 +82,7 @@ body {
 }
 
 .five .idea-5 {
-  font-size: 4rem;
+  font-size: 3.5rem;
 }
 
 .idea-5 span, .idea-6 span, .wish-hbd span {
@@ -90,7 +90,7 @@ body {
 }
 
 .idea-6 span{
-  font-size: 4rem;
+  font-size: 2rem;
 }
 
 .six {
@@ -211,7 +211,7 @@ body {
 }
 
 .wish h5 {
-  font-size: 2rem;
+  font-size: 0.5rem;
   font-weight: lighter;
   margin: 10px 0 0;
 }
@@ -283,7 +283,7 @@ body {
   }
 
   .wish h5 {
-    font-size: 1.4rem;
+    font-size: 0.5rem;
   }
 
   .nine p {
